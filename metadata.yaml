@@ -1,0 +1,31 @@
+_repo: The-Duke-s-Motto--A-Melodrama_28266
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McCarthy, Justin H. (Justin Huntly)
+    aliases:
+    - McCarthy, Justin Huntly
+    - M'Carthy, Justin Huntly
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '25862'
+    url: http://www.gutenberg.org/2009/agents/25862
+    wikipedia: http://en.wikipedia.org/wiki/Justin_Huntly_McCarthy_%281859-1936%29
+description: ''
+gutenberg_issued: '2009-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Louis XIII, 1610-1643 -- Fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcc 'PR'
+title: 'The Duke''s Motto: A Melodrama'
+url: http://www.gutenberg.org/ebooks/28266
